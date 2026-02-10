@@ -1,9 +1,13 @@
 - # 👋 Hi, I’m @XCisCoX or simply `CiSCO`
-- ## 👀 I’m interested in Ai And Security Programming
-- 😽 23 Year old. ( also yes i am bald 🤩🤑)
-- 🌱 I’m currently working as a system programmer in an antivirus company 
-- 🫡 i wanna create an linux OS for my electro guitar ( this might be confusing for you)
-- 📫 How to reach me? @CISCO_X Telegram 
+- ## 👀 I am interested in :
+   * hardware hack 
+   * cyber security 🖥️ 
+   * electric guitar 🎸 
+
+- i do c++ and c and assembly and python (i mean anyway i use language as a tool)
+- 😽 24 Year old. ( also yes i am bald 🤩🤑)
+- 🌱 I’m currently working as a system programmer
+- 📫 Wanna reach me out? @CISCO_X Telegram 
 
 <!---
 XCisCoX/XCisCoX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
